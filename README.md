@@ -35,5 +35,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 
 ## 📧 Let's Connect!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [Your GitHub](https://github.com/your-username)
+- **Email**: [zahlia.roszaharni@gmail.com](mailto:zahlia.roszaharni@gmail.com)
+- **GitHub**: [Zahlia Roszaharni](https://github.com/zahlia85)
