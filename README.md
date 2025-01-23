@@ -6,9 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 
 - [Python Projects](#python-projects)
 - [SQL Projects](#sql-projects)
-- [Power BI Projects](#power-bi-projects)
 - [Skills and Tools](#skills-and-tools)
-- [Competitions](#competitions)
 
 ### Python Projects
 
@@ -19,16 +17,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 
 - **SQL Detective Project**: Solved various SQL challenges by analyzing datasets. [View Project](https://github.com/your-username/sql-detective)
 
-### Power BI Projects
-
-- **California Sales Dashboard**: Designed an interactive dashboard for sales data. [View Project](https://github.com/your-username/california-sales-dashboard)
-
 ### Skills and Tools
 
 - **Languages**: Python, SQL
 - **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn
-- **Tools**: Power BI, Jupyter Notebook
+- **Tools**: , Jupyter Notebook
 
-### Competitions
-
-- **House Prices: Advanced Regression Techniques**: Kaggle competition to predict house prices using advanced regression techniques. [Link to Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
