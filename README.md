@@ -8,7 +8,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 - [SQL Projects](#sql-projects)
 - [Skills and Tools](#skills-and-tools)
   
-## 🐍 Python Projects
+## Python Projects
 
 | Project                                  | Area                   | Description                                                                                                                                           | Libraries                                                       | Link            |
 |------------------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------|
