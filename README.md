@@ -18,7 +18,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 | 📊 Customer Segmentation Analysis       | Descriptive Analysis   | Analyzed customer spending patterns using descriptive statistics to identify key trends and segments.                                                  | Pandas, NumPy, Matplotlib, Seaborn                             | [View Project](https://github.com/your-username/customer-segmentation) |
 | 🚢 Titanic: Machine Learning from Disaster| Classification Analysis| Built models to predict passenger survival using KNN and Random Forest. Data visualization via Power BI.                                                | Pandas, Scikit-learn, Matplotlib, Power BI                     | [View Project](https://github.com/your-username/titanic-machine-learning) |
 
-## 🛢️ SQL Projects
+## SQL Projects
 
 | Project                              | Area                     | Description                                                                                   | Tools   | Link            |
 |--------------------------------------|--------------------------|-----------------------------------------------------------------------------------------------|---------|-----------------|
@@ -27,7 +27,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 
 
 
-## 🛠️ Skills and Tools
+## Skills and Tools
 
 - **Languages**: Python, SQL (SQLite)
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
