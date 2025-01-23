@@ -17,8 +17,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the f
 | 💳 Credit Card Customer Segmentation     | Clustering Analysis    | Grouped credit card customers based on spending patterns to help financial institutions personalize offers and services.                              | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn               | No          | [View Project](https://github.com/your-username/credit-card-segmentation) |
 | 📊 Customer Segmentation Analysis       | Descriptive Analysis   | Analyzed customer spending patterns using descriptive statistics to identify key trends and segments.                                                  | Pandas, NumPy, Matplotlib, Seaborn                             | No          | [View Project](https://github.com/your-username/customer-segmentation) |
 
-| 🚢 Titanic: Machine Learning from Disaster| Classification Analysis| Built models to predict passenger survival using KNN and Random Forest. Data visualization via Power BI.                                                | Pandas, Scikit-learn, Matplotlib, Power BI                     | Yes         | [View Project](https://github.com/your-username/titanic-machine-learning) |
-
 ## 🛢️ SQL Projects
 
 | Project                              | Area                     | Description                                                                                   | Tools   | Competition | Link            |
